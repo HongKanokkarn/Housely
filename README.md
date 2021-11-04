@@ -13,6 +13,9 @@ This websit has 5 main pages (Home Page, About Us, Contact Us, Admin Page and Us
 | Change Password  | :x:  |:heavy_check_mark:  | :heavy_check_mark:  |
 | Book Services  | :x:  |:heavy_check_mark:  | :heavy_check_mark:  |
 | Add Services  | :x:  |:x:  | :heavy_check_mark:  |
+| Edit Services  | :x:  |:x:  | :heavy_check_mark:  |
+| Edit User Information  | :x:  |:x:  | :heavy_check_mark:  |
+
 
 
 
