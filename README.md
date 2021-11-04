@@ -8,8 +8,16 @@ This websit has 5 main pages (Home Page, About Us, Contact Us, Admin Page and Us
 | ------------- | ------------- | ------------- | ------------- |
 | Dormitory Information  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |
 | Login  | :x:  |:heavy_check_mark:  | :heavy_check_mark:  |
+| Logout  | :x:  |:heavy_check_mark:  | :heavy_check_mark:  |
+| Register  | :heavy_check_mark:  | :heavy_check_mark:  | :x:  |
+| Change Password  | :x:  |:heavy_check_mark:  | :heavy_check_mark:  |
+| Book Services  | :x:  |:heavy_check_mark:  | :heavy_check_mark:  |
+| Add Services  | :x:  |:x:  | :heavy_check_mark:  |
 
-# Language
+
+
+
+# Languages
 - HTML 
 - CSS
 - PHP
