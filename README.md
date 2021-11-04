@@ -7,7 +7,7 @@ This websit has 5 main pages (Home Page, About Us, Contact Us, Admin Page and Us
 | Function  | Guest | User  | Admin |
 | ------------- | ------------- | ------------- | ------------- |
 | Dormitory Information  | :heavy_check_mark:  | :heavy_check_mark:  | :heavy_check_mark:  |
-| Content Cell  | Content Cell  |
+| Login  | :x:  |:heavy_check_mark:  | :heavy_check_mark:  |
 
 # Language
 - HTML 
